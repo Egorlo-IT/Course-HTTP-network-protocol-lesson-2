@@ -1,0 +1,13 @@
+{
+  "name": "lesson-2",
+  "version": "1.0.0",
+  "description": "Сетевой протокол HTTP. Урок 2. Cookies и передача данных",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "keywords": [],
+  "author": "Korobeinikov Egor",
+  "license": "ISC"
+}
